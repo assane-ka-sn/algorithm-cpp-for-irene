@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1540135561 source:c:\dev-cplusplus-qt\test_irene\profile.cpp
+	<iostream>
+	"Profile.h"
+
+1540157301 c:\dev-cplusplus-qt\test_irene\profile.h
+	<iostream>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	<string>
+	<cstdlib>
+
+1540156320 source:c:\dev-cplusplus-qt\test_irene\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<stdlib.h>
+	"Profile.h"
+
